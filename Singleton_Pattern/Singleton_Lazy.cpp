@@ -111,9 +111,9 @@ public:
 #endif
 
 
-
+#if 0
 int main() {
 	Singleton* sing = Singleton::GetSingleton();
 	sing->show();
 }
-
+#endif

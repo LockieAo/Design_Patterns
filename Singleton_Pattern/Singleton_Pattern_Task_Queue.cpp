@@ -71,7 +71,7 @@ TaskQueue* TaskQueue::task_queue = new TaskQueue;
 
 
 
-//#if 0
+#if 0
 int main() {
 	TaskQueue* taskqueue = TaskQueue::GetTaskQueue();
 
@@ -112,5 +112,5 @@ int main() {
 	producer.join();
 	consumer.join();
 }
-//#endif
+#endif
 

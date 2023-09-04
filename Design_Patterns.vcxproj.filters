@@ -24,5 +24,14 @@
     <ClCompile Include="Singleton_Pattern\Singleton_Pattern_Task_Queue.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Factory_Pattern\Simple_Factory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory_Pattern\Factory_Pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory_Pattern\Abstract_Factory_Pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

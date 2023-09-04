@@ -34,9 +34,10 @@ public:
 // 类外初始化
 Singleton* Singleton::sing = new Singleton();
 
-
+#if 0
 int main() {
 	Singleton* sing = Singleton::GetSingleton();
 	sing->show();
 }
+#endif
 
